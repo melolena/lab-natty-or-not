@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic ;
+Residência Onboard Uma Imersão no Universo Digital
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+BMeu prjeto é um podcast constando sobre minha experiência na Residência OnBoard do Porto Digital e dicas de como se sair bem nela 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Roteiro e título: ChatGPT
+Voz: ElevenLabs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu fiz um prompt com especificações, regras e tópicos de como queria o assunto e sua estruturação e ele saiu.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Residência Onboard Uma Imersão no Universo Digital] (/Resultado/podcast.mp3)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Apesar de tentar deixar mais naturalpossível ainda deu a sensação que falta algo.
 
 ### Exemplos e Insigths
 
