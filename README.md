@@ -34,7 +34,7 @@ Voz: ElevenLabs
 Eu fiz um prompt com especificações, regras e tópicos de como queria o assunto e sua estruturação e ele saiu.
 
 ## 🚀 Resultados
-[Residência Onboard Uma Imersão no Universo Digital] (/Resultado/podcast.mp3)
+[Residência Onboard Uma Imersão no Universo Digital] (https://github.com/melolena/lab-natty-or-not/blob/main/Resultado/podcast.mp3)
 
 ## 💭 Reflexão (Opcional)
 Apesar de tentar deixar mais naturalpossível ainda deu a sensação que falta algo.
